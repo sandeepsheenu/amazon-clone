@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4cf38ec0.css",
+    "main.js": "/static/js/main.be3f806f.js",
+    "static/js/453.7d97a5bc.chunk.js": "/static/js/453.7d97a5bc.chunk.js",
+    "static/media/Books_HD_(8314929977).jpg": "/static/media/Books_HD_(8314929977).cd8516dfc0e04972b6e3.jpg",
+    "static/media/amazon-diwali-sale.jpg": "/static/media/amazon-diwali-sale.93b7488a3ed07c77022f.jpg",
+    "static/media/amlogo.png": "/static/media/amlogo.823ce8b0ad2df58f36dd.png",
+    "index.html": "/index.html",
+    "main.4cf38ec0.css.map": "/static/css/main.4cf38ec0.css.map",
+    "main.be3f806f.js.map": "/static/js/main.be3f806f.js.map",
+    "453.7d97a5bc.chunk.js.map": "/static/js/453.7d97a5bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cf38ec0.css",
+    "static/js/main.be3f806f.js"
+  ]
+}

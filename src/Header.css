@@ -1,0 +1,67 @@
+.header_logo{
+    width: 100px;
+    margin: 10px 20px;
+}
+
+.header{
+    /* background:#131921;
+    display: flex;
+    align-items: center ;
+    position: sticky !important;
+    top: 0;
+    z-index: 100; */
+    
+        background: #131921; /* Dark background color */
+        display: flex; /* Flex container */
+        align-items: center; /* Center align items vertically */
+        position: sticky !important; /* Sticky positioning */
+        top: 0; /* Stick to the top of the viewport */
+        z-index: 100; /* Ensure it's above other content */
+        /* Add any other necessary styles */
+    
+    
+}
+.header_searchInput{
+       width: 100%;;
+}
+.header_search{
+    display: flex;
+    flex: 1;
+}
+
+.header_searchIcon{
+    background: #f7a233;
+}
+.header_optionbasket{
+    display: flex;
+    color: white;
+    align-items: center;
+}
+
+.headerNav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header_link{
+    color: white;
+    text-decoration: none;
+}
+.header_option{
+    display: flex;
+    flex-direction: column;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+
+.header_optionlineone{
+    font-size: 10px;
+    /* font-weight: 800; */
+}
+.header_optionlinetwo{
+    font-size: 13px;
+    font-weight: 700;
+}
+
+
+

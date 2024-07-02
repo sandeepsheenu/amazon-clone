@@ -1,0 +1,23 @@
+.img-banner{
+    height: 600px;
+    width: 100%;
+    
+}
+
+/* .home{
+    max-width: 1500px;
+    margin-right: auto;
+    margin-left: auto;
+} */
+
+
+.home_row{
+    display: flex;
+    justify-content: space-around;
+    /* width: auto; */
+    z-index: 1;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+
+}
